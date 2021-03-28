@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="random" />
+          <option value="tkinter" />
+          <option value="rand.randint" />
+          <option value="numpy.core._multiarray_umath.copy.copy" />
+          <option value="time.*" />
+          <option value="dict.iteritems" />
+          <option value="lab2.zad3.TrieNode.__setitem__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
