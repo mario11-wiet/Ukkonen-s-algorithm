@@ -3,11 +3,7 @@
 
 ### reference https://www.cs.helsinki.fi/u/ukkonen/SuffixT1withFigs.pdf
 
-### "
-"
-
-###
-
+ <br />
 
 
 #### visualisation Trie O(n^2), not Ukkonen's algorithm
