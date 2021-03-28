@@ -1,10 +1,10 @@
 # Ukkonen-s-algorithm
 
-
+ <br />
 ### reference https://www.cs.helsinki.fi/u/ukkonen/SuffixT1withFigs.pdf
 
  <br />
-
+ <br />
 
 #### visualisation Trie O(n^2), not Ukkonen's algorithm
 
